@@ -1,0 +1,13 @@
+html{
+    overflow-x: hidden;
+}
+
+a{
+    margin-left: 10%;
+    text-decoration: none;
+}
+
+img{
+    height: 10%;
+    width: 20%;
+}
